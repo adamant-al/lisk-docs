@@ -437,7 +437,7 @@ This should be an array of objects in the following form: [{ip: '123.123.123.123
 <88> IP or address of the blacklisted peer.
 <89> A list of peers to stay constantly connected to.
 This should be an array of objects in the following form: [{ip: '123.123.123.123'}, {ip: '111.111.111.111'}]
-<90> IP or address of the blacklisted peer.
+<90> IP or address of the peer to stay constantly connected to.
 <91> A list of peers which should never be banned.
 This should be an array of objects in the following form: [{ip: '123.123.123.123'}, {ip: '111.111.111.111'}]
 <92> IP or address of the blacklisted peer.
